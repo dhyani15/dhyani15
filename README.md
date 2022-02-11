@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Naren Dhyani, I have worked in product roles in growth stage startups with a total of 4 years of experience.
-- 👀 I’m interested in Machine Learning Engineering roles, currently I am a graduate student at NYU and looking for summer internships.
-- 🌱 I’m currently learning backend development in node/express and training ML models in TensorFlow.
-- 💞️ I’m looking to collaborate on open source projects concerning machine learning tech stack.
+- 👋 Hi, I’m Naren Dhyani, I have worked been involed in machine learning teams working across Computer Vision and NLP applications.
+- 👀 Currently I am pursuing my masters thesis in AI application in games at Game Innovation lab at NYU.
+- 🌱 I am looking for Summer internship opportunities in Machine Learning teams
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/naren-dhyani-4a6b2783), or [Twitter](https://twitter.com/NarenDhyani).
 
 <!---
